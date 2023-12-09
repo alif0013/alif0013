@@ -1,6 +1,7 @@
 <p align="center">
-  ![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)
+  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png" alt="alt text">
 </p>
+
 
 ## Current Stats:
 <p align="center">
