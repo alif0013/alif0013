@@ -8,10 +8,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy" alt="GitHub Streak">  
 </p>
 
-
+##📫 Reach me out:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/iimg.webp">  
+</p>
 
 ## 💻 Technologies that I know:
-<p align="center">
+<p align="cener">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,firebase,express,nodejs,mongodb&perline=5" />
   </a>
