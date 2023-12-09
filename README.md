@@ -1,8 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)
 
 ## Current Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy)](https://git.io/streak-stats)
 
+</p>
 ## Skils:
 <p align="center">
   <a href="https://skillicons.dev">
