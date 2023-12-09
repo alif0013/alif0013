@@ -10,8 +10,13 @@
 
 ## 📫 Reach me out:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/panel-27371242-image-5834d003-27eb-470f-9c0c-d76faa60b48f.png">
-  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/link.jpg">
+   <a href="https://www.facebook.com/profile.php?id=100075976248378" target="_blank">
+     <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/panel-27371242-image-5834d003-27eb-470f-9c0c-d76faa60b48f.png">
+  </a>
+   <a href="https://www.linkedin.com/in/md-alif-hasan-14b44a2a4/" target="_blank">
+      <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/link.jpg">
+  </a>
+ 
 </p>
 
 ## 💻 Technologies that I know:
