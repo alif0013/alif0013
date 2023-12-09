@@ -1,4 +1,6 @@
-![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)
+<p align="center">
+  <img src="![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)" alt="GitHub Streak">  
+</p>
 
 ## Current Stats:
 <p align="center">
