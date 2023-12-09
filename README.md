@@ -2,9 +2,7 @@
 
 ## Current Stats:
 <p align="center">
-  
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy)](https://git.io/streak-stats)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy" alt="GitHub Streak">  
 </p>
 
 
