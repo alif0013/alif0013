@@ -18,12 +18,12 @@
 </p>
 
 ## 👀 Current overview:
-<p align="center">
+
 - 🔭 I’m currently working on - FrontEnd Development
 - 🌱 I’m currently exploring - Next Js and Backend
 - 👯 I’m looking - To collaborate on Real time projects.
 - 🤔 I’m trying - To increase my skills and experience
 - 💬 Ask me about - My technical khowledge
-</p>
+
 
 
