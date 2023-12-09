@@ -3,25 +3,27 @@
 </p>
 
 
-## Current Stats:
+## 📈 Current Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy" alt="GitHub Streak">  
 </p>
 
 
 
-## Skils:
+## 💻 Technologies that I know:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,firebase,express,nodejs,mongodb&perline=6" />
   </a>
 </p>
 
-## Current Overview:
-
+## 👀 Current overview:
+<p align="center">
 - 🔭 I’m currently working on - FrontEnd Development
 - 🌱 I’m currently exploring - Next Js and Backend
 - 👯 I’m looking - To collaborate on Real time projects.
 - 🤔 I’m trying - To increase my skills and experience
-- 💬 Ask me about - My technical idea
+- 💬 Ask me about - My technical khowledge
+</p>
+
 
