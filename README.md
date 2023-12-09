@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)" alt="GitHub Streak">  
+  ![alt text](https://raw.githubusercontent.com/alif0013/alif0013/main/github-header-image.png)
 </p>
 
 ## Current Stats:
