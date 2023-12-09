@@ -3,6 +3,13 @@
 ## Current Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alif0013&theme=blue-navy)](https://git.io/streak-stats)
 
+## Skils:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,firebase,express,nodejs,mongodb&perline=6" />
+  </a>
+</p>
+
 ## Current Overview:
 
 - 🔭 I’m currently working on ...
