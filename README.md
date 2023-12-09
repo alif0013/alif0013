@@ -10,12 +10,14 @@
 
 ##📫 Reach me out:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/iimg.webp">  
+  Facebook
 </p>
 
 ## 💻 Technologies that I know:
-<p align="cener">
-  Facebook
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,firebase,express,nodejs,mongodb&perline=5" />
+  </a>
 </p>
 
 ## 👀 Current overview:
