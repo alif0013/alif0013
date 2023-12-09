@@ -11,7 +11,7 @@
 ## 📫 Reach me out:
 <p align="center">
   <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/panel-27371242-image-5834d003-27eb-470f-9c0c-d76faa60b48f.png">
-  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/HD%20Linkedin%20Neon%20Logo%20Transparent%20PNG.jpg">
+  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/link.jpg">
 </p>
 
 ## 💻 Technologies that I know:
