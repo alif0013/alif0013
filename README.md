@@ -10,7 +10,7 @@
 
 ## 📫 Reach me out:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alif0013/alif0013/main/FB_V11.png" alt="alt text">
+  <img src="https://panels.twitch.tv/panel-27371242-image-5834d003-27eb-470f-9c0c-d76faa60b48f">
 </p>
 
 ## 💻 Technologies that I know:
