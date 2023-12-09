@@ -15,9 +15,7 @@
 
 ## 💻 Technologies that I know:
 <p align="cener">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,firebase,express,nodejs,mongodb&perline=5" />
-  </a>
+  Facebook
 </p>
 
 ## 👀 Current overview:
